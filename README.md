@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github.com/KarakayaMetin8787/KarakayaMetin8787/blob/20b300df8ed5d44e581733486ed82d85cef63059/backgroundgif.gif" alt="karakayametin8787" /></p>
+<p><img align="left" src="https://github.com/KarakayaMetin8787/KarakayaMetin8787/blob/20b300df8ed5d44e581733486ed82d85cef63059/background2.gif" alt="karakayametin8787" /></p>
 
 <h1 align="center">Hi 👋, I'm Metin Karakaya</h1>
 <h3 align="center">Junior FrontEnd & aspiring Full-Stack Developer</h3>
