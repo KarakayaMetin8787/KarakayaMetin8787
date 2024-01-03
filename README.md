@@ -1,3 +1,4 @@
+![Your GIF](https://raw.githubusercontent.com/KarakayaMetin8787/KarakayaMetin8787/main/2024-01-03 01.03.32.gif)
 <h1 align="center">Hi 👋, I'm Metin Karakaya</h1>
 <h3 align="center">Junior FrontEnd & aspiring Full-Stack Developer</h3>
 
