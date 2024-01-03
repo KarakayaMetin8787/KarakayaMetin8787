@@ -1,4 +1,4 @@
-![Your GIF](https://raw.githubusercontent.com/KarakayaMetin8787/KarakayaMetin8787/backgroundgif.gif
+![Your GIF](https://raw.githubusercontent.com/KarakayaMetin8787/KarakayaMetin8787/main/backgroundgif.gif
 <h1 align="center">Hi 👋, I'm Metin Karakaya</h1>
 <h3 align="center">Junior FrontEnd & aspiring Full-Stack Developer</h3>
 
