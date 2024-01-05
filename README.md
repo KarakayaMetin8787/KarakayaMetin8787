@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **prior to my developer career I was a successful movement analyst and rehabilitative therapist**
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages / Frameworks / Libraries</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
 
