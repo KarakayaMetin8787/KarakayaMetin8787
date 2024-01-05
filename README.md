@@ -8,14 +8,17 @@
 - ⚡ Fun fact **prior to my developer career I was a successful movement analyst and rehabilitative therapist**
 
 <h3 align="left">Languages</h3>
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,typescript,html,css,sass,tailwind,express,nodejs,mongodb )](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vscode,figma)](https://skillicons.dev)
-<br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,firebase,git,github,figma,wordpress)](https://skillicons.dev)
 
 <h3 align="left">social</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karakayametin8787&show_icons=true&locale=en&layout=compact" alt="karakayametin8787" | height=200px />
 <br>
