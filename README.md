@@ -15,19 +15,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,firebase,git,github,figma,wordpress)](https://skillicons.dev)
 
-<h3 align="left">social</h3>
+<br clear="both">
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karakayametin8787&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karakayametin8787&show_icons=true&locale=en&layout=compact" alt="karakayametin8787" | height=200px />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=karakayametin8787&show_icons=true&locale=en" alt="karakayametin8787" | height=200px />
