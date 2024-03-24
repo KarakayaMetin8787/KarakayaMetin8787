@@ -3,7 +3,8 @@
 
 <h1>Hi 👋</h1>
 
-- I’m currently in a Bootcamp for Fullstack Developers and began learning **Back-End**.
+- I’m a Supercode Bootcamp graduate for Fullstack Webdevelopment and I'm currently learning TypeScript and also interested in HTML Canvas.
+  In search for employment as Fullstack or Frontend developer.
 
 - ⚡ Fun fact **prior to my developer career I was a successful movement analyst and rehabilitative therapist**
 
