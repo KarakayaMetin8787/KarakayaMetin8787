@@ -3,14 +3,13 @@
 
 <h1>Hi 👋</h1>
 
-- I’m a Supercode Bootcamp graduate for Fullstack Webdevelopment and I'm currently learning TypeScript and also interested in HTML Canvas.
-  In search for employment as Fullstack or Frontend developer.
+- I’m a Fullstack Developer working for kernpunkt Cologne and currently learning TypeScript + NextJS and also interested in HTML Canvas.
 
 - ⚡ Fun fact **prior to my developer career I was a successful movement analyst and rehabilitative therapist**
 
 <h3 align="left">Languages / Frameworks / Libraries</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,js,ts,html,css,sass,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
