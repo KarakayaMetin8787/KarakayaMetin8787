@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages / Frameworks / Libraries</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,js,ts,html,css,sass,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,js,ts,html,css,sass,less,tailwind,express,nodejs,mongodb)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
