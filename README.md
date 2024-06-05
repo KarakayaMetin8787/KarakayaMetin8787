@@ -13,7 +13,7 @@
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode,firebase,git,github,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode,firebase,aws,git,github,npm,yarn,figma,wordpress)](https://skillicons.dev)
 
 <br clear="both">
 
