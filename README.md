@@ -3,7 +3,7 @@
 
 <h1>Hi 👋</h1>
 
-- I’m a Fullstack Developer working for kernpunkt Cologne and currently learning TypeScript + NextJS and also interested in HTML Canvas.
+- I’m a Fullstack Developer and currently deepening my skills in TypeScript + NextJS and also interested in HTML Canvas.
 
 - ⚡ Fun fact **prior to my developer career I was a successful movement analyst and rehabilitative therapist**
 
