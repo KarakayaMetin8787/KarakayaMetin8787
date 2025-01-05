@@ -1,6 +1,3 @@
-<p><img align="left" src="https://github.com/KarakayaMetin8787/KarakayaMetin8787/blob/d69d301f4c09b21e6756b67d1992fa30ead5eee6/background4.gif" alt="karakayametin8787"  | width=100% /></p>
-
-
 <h1>Hi 👋</h1>
 
 - I’m a Fullstack Developer and currently deepening my skills in TypeScript + NextJS and also interested in HTML Canvas.
